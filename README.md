@@ -1,4 +1,4 @@
-<h1 align="center" style="color: pink">Hi, I'm Claudia!</h1>
+<h1 align="center" style="color: pink;">Hi, I'm Claudia!</h1>
 <p align="center" style="font-size: 100%; margin-bottom: 50px;">Welcome to my GitHub! I'm a passionate Software Engineer based in New York, NY. I thrive in the world of web development, specializing in creating seamless and user-friendly applications. </p>
 
 <!-- <div align="right" style="margin-bottom: 50px;> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=claudiaaziz&rank=-C,-?" alt="" /></a> </div> -->
@@ -15,6 +15,7 @@
 
 <h3 align="left" style="margin-top: 50px;">Languages, Frameworks & Tools:</h3>
 
+<div style="margin-bottom: 50px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" style="margin-bottom: 50px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="50" style="margin-bottom: 50px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" style="margin-bottom: 50px;"/>
@@ -32,9 +33,10 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" style="margin-bottom: 50px;"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" style="margin-bottom: 50px;"/> 
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" style="margin-bottom: 50px;"/> 
+</div>
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=claudiaaziz&show_icons=true&locale=en&layout=compact&theme=dark&background=000000" alt="" /></p> -->
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=claudiaaziz&theme=dark&background=000000&stroke=F4C2C2&fire=F4C2C2&ring=F4C2C2&currStreakLabel=F4C2C2&")
+<!-- ![GitHub Streak](https://streak-stats.demolab.com/?user=claudiaaziz&theme=dark&background=000000&stroke=F4C2C2&fire=F4C2C2&ring=F4C2C2&currStreakLabel=F4C2C2&") -->
 
-<img src="https://github-profile-trophy.vercel.app/?username=claudiaaziz&rank=-C,-?" alt="" />
+<img style="margin-top: 50px;" src="https://github-profile-trophy.vercel.app/?username=claudiaaziz&rank=-C,-?" alt="" />
