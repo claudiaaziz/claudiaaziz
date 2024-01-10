@@ -1,4 +1,4 @@
-<h1 align="center" style="color: pink;">Hi, I'm <a target="_blank" href=https://claudiaaziz.netlify.app/">Claudia!</a></h1> 
+<h1 align="center" style="color: pink;">Hi, I'm <a target="_blank" href=https://claudiaaziz.netlify.app/>Claudia!</a></h1> 
 <p align="center" style="font-size: 100%; margin-bottom: 50px;">Welcome to my GitHub! I'm a passionate Software Engineer based in New York, NY. I thrive in the world of web development, specializing in creating seamless and user-friendly applications. </p>
 
 <!-- <div align="right" style="margin-bottom: 50px;> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=claudiaaziz&rank=-C,-?" alt="" /></a> </div> -->
