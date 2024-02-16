@@ -35,9 +35,8 @@
 </div>
 
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=claudiaaziz&count_private=true&border_radius=10&theme=dark&background=0E1117&stroke=F4C2C2&fire=F4C2C2&ring=F4C2C2&currStreakLabel=F4C2C2&hide_border=true" alt="streak stats"/>
-  <!-- <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=claudiaaziz&count_private=true&show_icons=true&theme=dark&background=000000&stroke=F4C2C2&rank_icon=github&border_radius=10" alt="readme stats" /> -->
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=claudiaaziz&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=0E1117&hide_border=true&count_private=true" alt="top langs" />
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=claudiaaziz&count_private=true&border_radius=10&theme=dark&background=transparent&stroke=F4C2C2&fire=F4C2C2&ring=F4C2C2&currStreakLabel=F4C2C2&hide_border=true" alt="streak stats"/>
+  <img width=280 src="https://github-readme-stats.vercel.app/api/top-langs?username=claudiaaziz&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=0E1117&count_private=true&hide_border=true" alt="top langs" />
 </div>
   <br/>
   <img src="https://github-profile-trophy.vercel.app/?username=claudiaaziz&rank=-C,-?" alt="" />
