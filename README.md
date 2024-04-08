@@ -39,4 +39,4 @@
   <img width=280 src="https://github-readme-stats.vercel.app/api/top-langs?username=claudiaaziz&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=ffffff00&count_private=true&hide_border=true" alt="top langs" />
 </div>
   <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=claudiaaziz&rank=-C,-?" alt="" />
+  <img src="https://github-profile-trophy.vercel.app/?username=claudiaaziz&rank=-C,-B,-?" alt="" />
