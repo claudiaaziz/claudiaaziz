@@ -1,5 +1,5 @@
 <h1 align="center" style="color: pink;">Hi, I'm <a target="_blank" href=https://claudiaaziz.netlify.app/>Claudia!</a></h1> 
-<p align="center" style="font-size: 100%; margin-bottom: 50px;">Welcome to my GitHub! I'm a passionate Full-Stack Software Engineer experienced in building dynamic web applications using JavaScript, React/Redux, Ruby on Rails, MERN, HTML, CSS, and more!</p>
+<p align="center" style="font-size: 100%; margin-bottom: 50px;">Welcome to my GitHub! I'm a dedicated Software Engineer experienced in building dynamic web applications using JavaScript, React/Redux, Ruby on Rails, MERN, CSS, and more!</p>
 
 <!-- <div align="right" style="margin-bottom: 50px;> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=claudiaaziz&rank=-C,-?" alt="" /></a> </div> -->
 
