@@ -1,14 +1,11 @@
-<div align="center">
-  <h1 align="center" style="color: pink;">Hi, I'm <a target="_blank" href=https://claudiaaziz.netlify.app/>Claudia!</a></h1>
-  <p align="center" style="font-size: 100%; margin-bottom: 50px;">Welcome to my GitHub! I'm a dedicated Software Developer experienced in building dynamic web applications using JavaScript, React/Redux, Ruby on Rails, the MERN Stack, CSS, and more!</p>
-
-</div>
+<h1 align="center" style="color: pink;">Hi, I'm <a target="_blank" href=https://claudiaaziz.netlify.app/>Claudia!</a></h1>
+<p align="center" style="font-size: 100%; margin-bottom: 50px;">Welcome to my GitHub! I'm a dedicated Software Developer experienced in building dynamic web applications using JavaScript, React/Redux, Ruby on Rails, the MERN Stack, CSS, and more!</p>
 
 <br>
 
 <div align="center">
 
-## Technologies Used
+  ## Technologies Used
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)&nbsp;
@@ -28,11 +25,9 @@
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)&nbsp;
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)&nbsp;
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;
-
-
-
 </div>
 
+<br>
 <br>
 
 <div align="center">
