@@ -1,12 +1,10 @@
 <div align="center">
-  
   <h1 align="center" style="color: pink;">Hi, I'm <a target="_blank" href=https://claudiaaziz.netlify.app/>Claudia!</a></h1>
-
   <p align="center" style="font-size: 100%; margin-bottom: 50px;">Welcome to my GitHub! I'm a dedicated Software Developer experienced in building dynamic web applications using JavaScript, React/Redux, Ruby on Rails, the MERN Stack, CSS, and more!</p>
 
 </div>
 
-<!-- <br> -->
+<br>
 
 <div align="center">
 
@@ -35,7 +33,6 @@
 
 </div>
 
-<!-- <br> -->
 <br>
 
 <div align="center">
