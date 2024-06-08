@@ -1,5 +1,5 @@
 <h1 align="center" style="color: pink;">Hi, I'm <a target="_blank" href=https://claudiaaziz.netlify.app/>Claudia!</a></h1>
-<p align="center" style="font-size: 100%; margin-bottom: 50px;">Welcome to my GitHub! I'm a dedicated Software Developer experienced in building dynamic web applications using JavaScript, React/Redux, Ruby on Rails, the MERN stack, CSS, and more!</p>
+<p align="center" style="font-size: 100%; margin-bottom: 50px;">Welcome to my GitHub! I'm a dedicated Software Developer with a strong focus on creating dynamic and efficient user experiences. With expertise spanning various languages and frameworks, I consistently deliver robust solutions across diverse projects. In all my endeavors, I strive for excellence in building scalable, user-centric solutions that drive business success and exceed client expectations.</p>
 
 <br>
 
