@@ -1,6 +1,6 @@
 <h1 align="center" style="color: pink;">Hi, I'm <a target="_blank" href=https://claudiaaziz.netlify.app/>Claudia!</a></h1>
 <p align="center" style="font-size: 100%; margin-bottom: 50px;">
-Welcome to my GitHub! I'm a dedicated Software Engineer with a proven track record of delivering robust, user-centric solutions in fast-paced environments. Currently, I'm involved in feature development, sprint planning, code refactors and code reviews at Servo, a dynamic startup. I graduated from App Academy's rigorous full-stack software engineering bootcamp, and I'm passionate about creating scalable, high-performance, and aesthetically appealing applications. I thrive on challenges and am always looking to improve my skills and contribute to impactful projects.
+Welcome to my GitHub! I'm a dedicated Software Developer with a proven track record of delivering robust, user-centric solutions in fast-paced environments. Currently, I'm involved in feature development, sprint planning, code refactors and code reviews at Servo, a dynamic startup. I graduated from App Academy's rigorous full-stack software engineering bootcamp, and I'm passionate about creating scalable, high-performance, and aesthetically appealing applications. I thrive on challenges and am always looking to improve my skills and contribute to impactful projects.
 </p>
 
 <br>
