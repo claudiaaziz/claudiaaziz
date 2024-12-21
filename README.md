@@ -1,9 +1,10 @@
 <h1 align="center" style="color: pink;">Hi, I'm <a target="_blank" href=https://claudiaaziz.netlify.app/>Claudia!</a></h1>
-<p align="center" style="font-size: 100%; margin-bottom: 50px;">
-Welcome to my GitHub! I'm a dedicated Software Developer with a proven track record of delivering robust, user-centric solutions in fast-paced environments. Currently, I'm involved in feature development, sprint planning, code refactors and code reviews at Servo, a dynamic startup. I graduated from App Academy's rigorous full-stack software engineering bootcamp, and I'm passionate about creating scalable, high-performance, and aesthetically appealing applications. I thrive on challenges and am always looking to improve my skills and contribute to impactful projects.
+<p align="center">
+Welcome to my GitHub!
+I’m a developer passionate about building robust, user-focused solutions. Currently, I work at Servo, a home services startup, where I contribute to everything from feature development and sprint planning to code refactoring and reviews. I thrive on tackling challenges, continuously enhancing my skills, and making meaningful contributions to impactful projects.
 </p>
 
-<br>
+<br/>
 
 <div align="center">
 
@@ -29,6 +30,7 @@ Welcome to my GitHub! I'm a dedicated Software Developer with a proven track rec
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)&nbsp;
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)&nbsp;
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
+
 </div>
 
 <br>
@@ -37,8 +39,12 @@ Welcome to my GitHub! I'm a dedicated Software Developer with a proven track rec
   
   ## Stats
 
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=claudiaaziz&count_private=true&border_radius=10&theme=dark&background=transparent&stroke=F4C2C2&fire=F4C2C2&ring=F4C2C2&currStreakLabel=F4C2C2&hide_border=true" alt="streak stats"/>
-  <img width=280 src="https://github-readme-stats.vercel.app/api/top-langs?username=claudiaaziz&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=ffffff00&count_private=true&hide_border=true" alt="top langs" />
 </div>
 
-<img src="https://github-profile-trophy.vercel.app/?username=claudiaaziz&rank=-C,-B,-?" alt="" />
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=claudiaaziz&bg_color=transparent&color=f4c2c2&line=f4c3c3&point=fff&area=true&hide_border=true&custom_title=Past%20Month%20in%20Contributions" width="95%" alt="contribution graph">
+</p>
+
+<div align="center">
+  <img width=280 src="https://github-readme-stats.vercel.app/api/top-langs?username=claudiaaziz&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=ffffff00&count_private=true&hide_border=true" alt="top langs"  />
+</div>
