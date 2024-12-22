@@ -47,5 +47,5 @@ I’m a developer passionate about building robust, user-focused solutions. Curr
 
 <div align="center" style="display: flex; justify-content: center;">
   <img width=300 src="https://raw.githubusercontent.com/claudiaaziz/github-stats-terminal-style/master/github_stats.svg" alt="github stats" />
-  <img width=320 src="https://github-readme-stats.vercel.app/api/top-langs?username=claudiaaziz&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=ffffff00&count_private=true&hide_border=true&langs_count=20" alt="top langs" />
+  <img width=280 src="https://github-readme-stats.vercel.app/api/top-langs?username=claudiaaziz&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=ffffff00&count_private=true&hide_border=true&langs_count=20" alt="top langs" />
 </div>
